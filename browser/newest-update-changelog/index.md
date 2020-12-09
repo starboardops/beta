@@ -1,2 +1,2 @@
-## Starboard 1.6.5 Changelog
-This release of Starboard only adds one feature: ARM support. This is big. It allows RasPi + some Windows PCs & Macs to be able to use Starboard.
+## Starboard X Changelog
+Starboard X allows a brand-new, enhanced Starboard experience. Downloading the new release requires agreeing to the [SLA](https://starboardops.github.io/beta/sla/index) first.
